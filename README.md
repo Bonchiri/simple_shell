@@ -1,2 +1,4 @@
-# simple_shell
-team project on Shell
+Authors
+
+Owen Momanyi
+Brian Onchiri
